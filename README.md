@@ -42,6 +42,10 @@ This repository contains papers for pure speech separation and multimodal speech
 
 :heavy_check_mark: [Supervised Speech Separation Based on Deep Learning An Overview,DeLiang Wang, Arxiv 2018] [[Paper]](https://arxiv.org/ftp/arxiv/papers/1708/1708.07524.pdf) 
 
+:heavy_check_mark: [An Overview of Lead and Accompaniment Separation in Music, Arxiv 2018] [[Paper]](https://arxiv.org/pdf/1804.08300.pdf)
+
+:heavy_check_mark: [A consolidated perspective on multi-microphone speech enhancement and source separation, Arxiv 2017] [[Paper]](https://hal.inria.fr/hal-01414179/document)
+
 --------------
 
 # Multi-Model Speech Separation
